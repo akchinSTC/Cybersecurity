@@ -11,7 +11,7 @@ Nothing much, had to do a password reset once, but the manual reset python scrip
 have the dependencies installed from pip. Just installed and everything went ok.
 
 Summary of the data collected: number of attacks, number of malware samples, etc:
-Total # of attacks : 10508 in the past 24 hrs. 
+Total # of attacks : 10508 in the past 24 hrs. 81963 total and counting
 Malware Samples Collected : 12
 smb://::ffff:59.127.167.202	::ffff:10.138.0.3	::ffff:59.127.167.202	445	1425	284d28a084888eb4e5971d0edad8a877ff35b5dfcc8dd275314e4e6312595f3ca3194dece02111dc0f0c95ee217111f3602988c80326f91acdf79a1d1134ab3d	786ab616239814616642ba4438df78a9
 smb://::ffff:59.127.167.202	::ffff:10.138.0.3	::ffff:59.127.167.202	445	1425	284d28a084888eb4e5971d0edad8a877ff35b5dfcc8dd275314e4e6312595f3ca3194dece02111dc0f0c95ee217111f3602988c80326f91acdf79a1d1134ab3d	786ab616239814616642ba4438df78a9
