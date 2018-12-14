@@ -49,7 +49,7 @@ a Create a new post with the following as text
 b. Article is then published and made available
 c. XSS is run as soon as page is loaded
 
-2. XSS Vulnerability
+2. XSS Vulnerability - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6817
 3. Affected v4.1.1, Patched in v4.6.16
 4. https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8
 5. See Peek3.gif
